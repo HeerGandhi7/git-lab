@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello Git- van123!
+=======
+Hello Git from heer
+>>>>>>> eb695070add11bb6476d4099e722ab05b5e3ea2a
 Login feature by Heer
 int a=5
